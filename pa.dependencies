@@ -110,12 +110,6 @@
     "revision":     "cm-11.0"
   },
   {
-    "remote":       "cm",
-    "repository":   "CyanogenMod/android_external_ebtables",
-    "target_path":  "external/etables",
-    "revision":     "cm-11.0"
-  },
-  {
     "remote":      "blobs",
     "repository":  "proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
